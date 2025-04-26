@@ -59,7 +59,6 @@ You can use [Omer.K's LCD Custom Character Generator](https://omerk.github.io/lc
 
 - Original idea and inspiration: [Pierre Massat](http://guitarextended.wordpress.com/)
 - LCD custom characters tool: [Omer.K's LCD CharGen](https://omerk.github.io/lcdchargen/)
-- Modified and extended by [Your Name or GitHub Username]
 
 ## License
 
